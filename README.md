@@ -125,7 +125,7 @@ The webapp will open and you can use this.
 
 ## 📸 Demo Screenshot
 
-![alt text]()
+![alt text](Screenshot.png)
 
 ---
 
