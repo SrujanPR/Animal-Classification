@@ -2,7 +2,7 @@
 
 ---
 
-![alt text](Banner.png)
+![alt text](Banner2.png)
 
 ---
 
