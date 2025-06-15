@@ -2,10 +2,6 @@
 
 ---
 
-![alt text](Banner2.png)
-
----
-
 ## 📸 Project Overview
 
 This is an AI Powered Image Classification System that identifies wild Aniamls like:
