@@ -1,8 +1,8 @@
-![alt text](Banner.png)
+# Wildlife Image Classifier
 
 ---
 
-# Wildlife Image Classifier
+![alt text](Banner.png)
 
 ---
 
