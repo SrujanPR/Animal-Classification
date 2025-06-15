@@ -145,10 +145,10 @@ This project is licensed under the MIT License.
 
 ## 📢 Credits
 
-Built by SRUJAN PR 🧠
-Model powered by EfficientNetV2-S
-Inspired by the beauty of wildlife 🌿
-Feel free to reach out for collaborations, ideas, or improvements.
+- Built by SRUJAN PR 🧠
+- Model powered by EfficientNetV2-S
+- Inspired by the beauty of wildlife 🌿
+- Feel free to reach out for collaborations, ideas, or improvements.
 [LinkedIn](https://www.linkedin.com/in/srujanpr)
 
 ---
